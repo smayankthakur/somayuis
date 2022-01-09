@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @somayuis
 - 👀 I’m interested in front end
-- 🌱 I’m currently learning php & python
+- 🌱 I’m currently learning Full Stack development
 - 💞️ I’m looking to collaborate on will be shared.
 - 📫 How to reach me smayankthakur25@gmail.com
 
