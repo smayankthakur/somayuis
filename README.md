@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayank Thakur
 - 👀 I’m interested in front end. 
 - 👀 learning full stack Devlopment
-- 🌱 I’m currently learning Full Stack development
+- 🌱 I know HTML5, CSS3, JS, Jquery, Bootstrap, WP.
 - 💞️ I’m looking to collaborate on will be shared.
 - 📫 How to reach me smayankthakur25@gmail.com
 
